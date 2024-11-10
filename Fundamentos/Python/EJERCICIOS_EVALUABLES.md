@@ -2,10 +2,6 @@
 
 En este archivo Markdown encontraréis los distintos ejercicios que tendréis que realizar tras cada una de las sesiones del curso de Python.
 
-Estos ejercicios serán evaluables y contarán para las notas finales que recibáis por mi parte.
-
-Los ejercicios estarán basados en aquello que hayamos visto durante las clases y podré ayudaros en caso de necesitarlo ;)
-
 ## Modo de entrega
 
 Aprovechando que conocéis GIT, la idea es que entreguéis los distintos ejercicios a través de GIT.

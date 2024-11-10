@@ -46,8 +46,6 @@ def identificacion_primo(numero):
 identificacion_primo(7)
 
 
-  
-               
 #Crea una función que reciba un año y pueda indicarte con True o False si es un año bisiesto o no.
 
 def identificacion_bisiesto (año):
