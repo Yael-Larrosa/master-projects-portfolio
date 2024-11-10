@@ -19,7 +19,7 @@ while(opcion_escogida != 'X'):
     cantidad_recibida =round(cantidad_inversion*(interes_anual/100)*tiempo_inversion,2)  
     print(f'En {tiempo_inversion} años habrás recibido {cantidad_recibida} € de interés.¿Qué quieres hacer ahora?')
 
-  elif(opcion_escogida == 'X'): #repasar
+  elif(opcion_escogida == 'X'): 
     print('¡Nos vemos!')
     exit("aplicación cerrada con un exit()")
 
