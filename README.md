@@ -27,7 +27,7 @@ Me adentré en el campo de la **Ciencia de Datos**, trabajando con diversas téc
 - Estadística avanzada aplicada al análisis de datos.  
 - **Aprendizaje supervisado**: Aprendí a construir y evaluar modelos de **clasificación** y **regresión**, utilizando algoritmos como regresión logística, árboles de decisión, random forests y métodos basados en gradiente como XGBoost.  
 - **Aprendizaje no supervisado**: Implementé técnicas de **clustering** como k-means y clustering jerárquico, además de trabajar en problemas de **reducción de dimensionalidad** utilizando PCA para visualizar datos complejos y mejorar el rendimiento de los modelos.  
-- - Creación de **redes neuronales** para el procesamiento de datos tabulares, imágenes y videos, abarcando diversas tareas como clasificación, predicción y análisis de series temporales.  
+- Creación de **redes neuronales** para el procesamiento de datos tabulares, imágenes y videos, abarcando diversas tareas como clasificación, predicción y análisis de series temporales.  
 - Exploración de la **IA generativa** para resolver problemas creativos y empresariales.  
 
 ---
